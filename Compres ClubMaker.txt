@@ -1,0 +1,11 @@
+- tablet android 7" o 10"
+- raspi w (3)
+- esp32 cam + fdti integrat (2)
+- fdti (4)
+- targetes sd
+- alimentador usb 5V 2A
+- bateria usb
+- lector/gravador i tags nfc
+- wemos
+- nodemcu
+- alimentador per protoboard
