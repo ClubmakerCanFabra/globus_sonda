@@ -10,3 +10,7 @@ Mou la carpeta `.\Adafruit_BMP280_Library` a `C:\User\USUARI\Documents\Arduino\l
 
 ### Linux
 Mou la carpeta `./Adafruit_BMP280_Library` a `~/Documents/Arduino/libraries/` (Es la carpeta de llibraries per defecte, pero es pot cambiar)
+
+## Placa
+Fegir URL: https://dl.espressif.com/dl/package_esp32_index.json
+y buscar esp32
