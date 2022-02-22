@@ -13,4 +13,4 @@ Mou la carpeta `./Adafruit_BMP280_Library` a `~/Documents/Arduino/libraries/` (E
 
 ## Placa
 Fegir URL: https://dl.espressif.com/dl/package_esp32_index.json
-y buscar esp32
+y buscar esp32 (Fer servir la 1.0.6 que es la que fem servir tots)
