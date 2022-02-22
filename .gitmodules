@@ -1,0 +1,3 @@
+[submodule "Adafruit_BMP280_Library"]
+	path = Adafruit_BMP280_Library
+	url = https://github.com/adafruit/Adafruit_BMP280_Library.git
