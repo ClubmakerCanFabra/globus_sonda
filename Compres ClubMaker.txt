@@ -1,3 +1,9 @@
+- Poliestirè expandit (porexpan) densitat entre 10-25 kg/m3 (fabricació caixa)
+- Policarbonat 1200 kg/m3 (pannells abella) (fabricació caixa) https://www.alumisan.com/archivos_productos/SistemasALUMISAN_PolicarbonatoCelular.pdf (densitat dels pannells)
+- Calculadora d'heli - https://www.tiendadeglobos.com/content/11-calculador-helio
+- Quantitat de globus per aixecar un cos: un globus de 25 cm té un volum aproximat de 8,6 litres d'heli. Pot aixecar 8,6gr, però se li ha de descomptar el pes del globus. Per tant   aproximadament pot aixecar uns 5 gr. https://www.eltiempo.es/noticias/cuantos-globos-se-necesitan-para-elevar-cuerpo
+
+
 - tablet android 7" o 10"
 - raspi w (3)
 - esp32 cam + fdti integrat (2)
